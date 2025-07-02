@@ -1,0 +1,13 @@
+h1 {
+  margin: 1em auto;
+  text-align: center;
+}
+
+.radio-option {
+  margin-bottom: 10px;    /* Space between options */
+}
+
+.radio-option input,
+.radio-option label {
+  display: inline-block;  /* Keep button and label side by side */
+}
