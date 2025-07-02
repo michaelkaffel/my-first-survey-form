@@ -5,6 +5,11 @@ body {
   color: #333; /* Dark text color for readability */
   padding: 20px; /* Padding around the content */
 }
+
+.container {
+  text-align: center;
+}
+
 h1 {
   margin: 1em auto;
   text-align: center;
